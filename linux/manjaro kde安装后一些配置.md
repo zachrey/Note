@@ -71,3 +71,25 @@ export https_proxy = http://127.0.0.1:7777
 
 
 
+## gdriver 同步google云盘
+
+> 命令行同步google云盘的东西
+>
+> [github](https://github.com/prasmussen/gdrive)
+
+先使用命令：
+
+```she
+gdriver about
+```
+
+认证帐号，命令会打印出一个`url`地址，访问地址，认证帐号，然后会出现一串`code`，把这个`code`复制粘贴到命令行，然后回车，过一会就会现实硬盘的信息。认证就搞定了。
+
+
+
+配置文件：
+
+```shell
+~/.gdriver
+```
+
