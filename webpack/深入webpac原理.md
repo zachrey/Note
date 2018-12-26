@@ -1,6 +1,6 @@
 # 深入webpack原理
 
-> Label: $$前端; $$JS; $$webpack; $$ES6;
+> Label: L@前端; L@JS; L@webpack; L@ES6;
 
 
 
