@@ -1,6 +1,6 @@
 # 深入webpack原理
 
-> 标签：  LABEL_前端; LABEL_JS; LABEL_webpack; LABEL_ES6;
+> 标签：  前端; JS; webpack; ES6;
 
 
 

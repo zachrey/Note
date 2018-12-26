@@ -1,6 +1,6 @@
 # 一些配置文件的路径和说明
 
-> 标签： LABEL_linux; LABEL_manjaro; LABEL_kde; LABEL_代理;
+> 标签： linux; manjaro; kde; 代理;
 
 
 
