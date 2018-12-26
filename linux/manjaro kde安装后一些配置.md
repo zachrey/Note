@@ -1,6 +1,6 @@
 # 一些配置文件的路径和说明
 
-> 标签： #linux; #manjaro; #kde; #代理;
+> Label: $$linux; $$manjaro; $$kde; $$代理;
 
 
 
