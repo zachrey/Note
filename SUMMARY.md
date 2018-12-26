@@ -4,6 +4,10 @@
 
 ## 技术
 
+### ECMAScript
+
+ * [Typescript](ECMAScript/Typescript/index.md)
+    * [手册阅读笔记](ECMAScript/Typescript/手册阅读笔记.md)
 
 ### git
 
